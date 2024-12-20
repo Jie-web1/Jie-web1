@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Dep
 ---
 
 ### Play My Snake Game 🎮
-Want to try a fun game? [Click here to play Snake!](https://jie-web1.github.io/snake-game/)
+<iframe src="https://jie-web1.github.io/snake-game" width="800" height="600" frameborder="0"></iframe>
 
 ---
 
