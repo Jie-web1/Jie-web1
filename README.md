@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Dep
   - Embedded systems development for real-time applications.
 
 - 📧 **How to Reach Me:**
-  - [LinkedIn](#) | [Email](#) (Update with your links!)
+  - [Email me](mailto:zouyujie616@gmail.com)
+  - [LinkedIn Profile](https://www.linkedin.com/in/yujie-zou-61014b31a/)
 
 ---
 
