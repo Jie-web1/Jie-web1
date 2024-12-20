@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Department of Computer Science and Engineering, University at Buffalo, working on innovative machine learning projects and real-time embedded systems.
 
+![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
 
 ---
 
@@ -31,6 +32,11 @@ Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Dep
 
 ---
 
+### Play My Snake Game 🎮
+Want to try a fun game? [Click here to play Snake!](https://jie-web1.github.io/snake-game/)
+
+---
+
 ### Tools & Technologies
 - **Programming:** Python, Java, C++
 - **Machine Learning Frameworks:** TensorFlow, PyTorch
@@ -42,17 +48,6 @@ Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Dep
 
 ### Fun Fact 😄
 - I'm fascinated by how machine learning intersects with everyday life and enjoy designing systems that combine the two!
-
----
-
-![Coding Image](data:image/png;base64,{Base64-Encoded-Image-1})
-
-![Activity Graph](data:image/png;base64,{Base64-Encoded-Image-2})
-
----
-
-### Contribution Snake 🐍
-![GitHub Contribution Snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
