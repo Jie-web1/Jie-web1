@@ -65,7 +65,9 @@
 ---
 
 ### Play My Snake Game 🎮
-Want to try a fun game? [Click here to play Snake!](https://jie-web1.github.io/snake-game)
+<div align="center">
+  <iframe src="https://jie-web1.github.io/snake-game" width="800" height="600" frameborder="0"></iframe>
+</div>
 
 ---
 
