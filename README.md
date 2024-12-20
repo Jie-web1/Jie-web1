@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate **Research Assistant** at the Department of Computer Science and Engineering, University at Buffalo, working on innovative machine learning projects and real-time embedded systems.
 
-![Header Image](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
 
 ---
 
